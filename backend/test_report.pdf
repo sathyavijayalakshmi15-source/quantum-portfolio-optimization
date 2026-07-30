@@ -1,0 +1,354 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kinds [ /Page ] /Count 1 /Kids [ 4 0 R ] >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [ 0 0 612 792 ] /Contents 7 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Length 4337 >>
+stream
+0.06 0.09 0.16 rg
+36 710 540 60 re f
+BT
+/F2 18 Tf
+1.0 1.0 1.0 rg
+50 745 Td
+(Quantum Portfolio Optimization Report) Tj
+ET
+BT
+/F1 9 Tf
+0.02 0.71 0.83 rg
+50 723 Td
+(Generated on 2026-07-30 12:16:32 UTC | Algorithm: Qiskit QAOA & Markowitz) Tj
+ET
+0.96 0.97 0.98 rg
+36 635 170 45 re f
+0.80 0.83 0.88 RG
+0.5 w
+36 635 170 45 re S
+BT
+/F1 8 Tf
+0.39 0.45 0.55 rg
+46 665 Td
+(EXPECTED ANNUAL RETURN) Tj
+ET
+BT
+/F2 14 Tf
+0.02 0.50 0.83 rg
+46 645 Td
+(24.50%) Tj
+ET
+0.96 0.97 0.98 rg
+221 635 170 45 re f
+0.80 0.83 0.88 RG
+0.5 w
+221 635 170 45 re S
+BT
+/F1 8 Tf
+0.39 0.45 0.55 rg
+231 665 Td
+(ANNUAL VOLATILITY \(RISK\)) Tj
+ET
+BT
+/F2 14 Tf
+0.02 0.50 0.83 rg
+231 645 Td
+(16.20%) Tj
+ET
+0.96 0.97 0.98 rg
+406 635 170 45 re f
+0.80 0.83 0.88 RG
+0.5 w
+406 635 170 45 re S
+BT
+/F1 8 Tf
+0.39 0.45 0.55 rg
+416 665 Td
+(SHARPE RATIO) Tj
+ET
+BT
+/F2 14 Tf
+0.02 0.50 0.83 rg
+416 645 Td
+(1.33) Tj
+ET
+BT
+/F2 12 Tf
+0.06 0.09 0.16 rg
+36 620 Td
+(1. Quantum vs Classical Solver Comparison) Tj
+ET
+0.02 0.71 0.83 RG
+1.5 w
+36 616 m 576 616 l S
+0.12 0.16 0.23 rg
+36 578 540 18 re f
+BT
+/F2 9 Tf
+1.0 1.0 1.0 rg
+42 583 Td
+(Metric) Tj
+182 583 Td
+(Quantum QAOA \(Qiskit\)) Tj
+312 583 Td
+(Classical SLSQP \(Markowitz\)) Tj
+452 583 Td
+(Exact Eigensolver) Tj
+ET
+0.98 0.98 0.99 rg
+36 562 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 566 Td
+(Expected Annual Return) Tj
+182 566 Td
+(24.50%) Tj
+312 566 Td
+(22.10%) Tj
+452 566 Td
+(24.80%) Tj
+ET
+0.94 0.96 0.98 rg
+36 546 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 550 Td
+(Annual Volatility \(Risk\)) Tj
+182 550 Td
+(16.20%) Tj
+312 550 Td
+(17.80%) Tj
+452 550 Td
+(15.90%) Tj
+ET
+0.98 0.98 0.99 rg
+36 530 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 534 Td
+(Sharpe Ratio) Tj
+182 534 Td
+(1.33) Tj
+312 534 Td
+(1.07) Tj
+452 534 Td
+(1.37) Tj
+ET
+0.94 0.96 0.98 rg
+36 514 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 518 Td
+(Optimal Bitstring / Selection) Tj
+182 518 Td
+(11100) Tj
+312 518 Td
+(3 Stocks) Tj
+452 518 Td
+(11100) Tj
+ET
+0.98 0.98 0.99 rg
+36 498 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 502 Td
+(Infeasibility Sample Rate) Tj
+182 502 Td
+(0.0%) Tj
+312 502 Td
+(N/A) Tj
+452 502 Td
+(0.0%) Tj
+ET
+0.94 0.96 0.98 rg
+36 482 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 486 Td
+(Optimality Gap vs True Min) Tj
+182 486 Td
+(2.80%) Tj
+312 486 Td
+(Baseline) Tj
+452 486 Td
+(0.00% \(Global Min\)) Tj
+ET
+BT
+/F2 12 Tf
+0.06 0.09 0.16 rg
+36 467 Td
+(2. Optimal Stock Weights & Allocation Breakdown) Tj
+ET
+0.02 0.71 0.83 RG
+1.5 w
+36 463 m 576 463 l S
+0.12 0.16 0.23 rg
+36 425 540 18 re f
+BT
+/F2 9 Tf
+1.0 1.0 1.0 rg
+42 430 Td
+(Asset Ticker) Tj
+177 430 Td
+(Quantum QAOA Weight) Tj
+312 430 Td
+(Classical SLSQP Weight) Tj
+447 430 Td
+(Selection Status) Tj
+ET
+0.98 0.98 0.99 rg
+36 409 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 413 Td
+(AAPL) Tj
+177 413 Td
+(40.0%) Tj
+312 413 Td
+(33.0%) Tj
+447 413 Td
+(Selected \(Included\)) Tj
+ET
+0.94 0.96 0.98 rg
+36 393 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 397 Td
+(NVDA) Tj
+177 397 Td
+(35.0%) Tj
+312 397 Td
+(33.0%) Tj
+447 397 Td
+(Selected \(Included\)) Tj
+ET
+0.98 0.98 0.99 rg
+36 377 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 381 Td
+(GOOGL) Tj
+177 381 Td
+(25.0%) Tj
+312 381 Td
+(34.0%) Tj
+447 381 Td
+(Selected \(Included\)) Tj
+ET
+BT
+/F2 12 Tf
+0.06 0.09 0.16 rg
+36 362 Td
+(3. Tail-Risk Metrics & Value-at-Risk \(CVaR 95%\)) Tj
+ET
+0.02 0.71 0.83 RG
+1.5 w
+36 358 m 576 358 l S
+0.12 0.16 0.23 rg
+36 320 540 18 re f
+BT
+/F2 9 Tf
+1.0 1.0 1.0 rg
+42 325 Td
+(Risk Quantification Metric) Tj
+242 325 Td
+(Quantum CVaR Model) Tj
+412 325 Td
+(Classical Markowitz Model) Tj
+ET
+0.98 0.98 0.99 rg
+36 304 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 308 Td
+(Annualized Value-at-Risk \(VaR 95%\)) Tj
+242 308 Td
+(28.5%) Tj
+412 308 Td
+(34.9%) Tj
+ET
+0.94 0.96 0.98 rg
+36 288 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 292 Td
+(Annualized Conditional VaR \(CVaR 95%\)) Tj
+242 292 Td
+(41.2%) Tj
+412 292 Td
+(50.8%) Tj
+ET
+0.98 0.98 0.99 rg
+36 272 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 276 Td
+(Maximum Historical Drawdown) Tj
+242 276 Td
+(14.2%) Tj
+412 276 Td
+(18.9%) Tj
+ET
+0.94 0.96 0.98 rg
+36 256 540 16 re f
+BT
+/F1 8.5 Tf
+0.12 0.16 0.23 rg
+42 260 Td
+(Portfolio Skewness & Kurtosis) Tj
+242 260 Td
+(-0.12 / 3.15) Tj
+412 260 Td
+(-0.28 / 3.82) Tj
+ET
+0.80 0.83 0.88 RG
+0.5 w
+36 30 m 576 30 l S
+BT
+/F1 8 Tf
+0.50 0.55 0.60 rg
+36 18 Td
+(Q-Optima Quantum Portfolio Optimization Platform | Qiskit QAOA & Markowitz Baseline) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000104 00000 n 
+0000000180 00000 n 
+0000000318 00000 n 
+0000000388 00000 n 
+0000000463 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4852
+%%EOF
