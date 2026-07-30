@@ -1,0 +1,7 @@
+backend/
+*.py
+requirements.txt
+render.yaml
+cloudflared.exe
+mingit/
+gh_tool/
