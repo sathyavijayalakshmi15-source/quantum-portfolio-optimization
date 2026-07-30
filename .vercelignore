@@ -1,5 +1,8 @@
+backend
 backend/
+backend/*
 *.py
+*.bak
 requirements.txt
 render.yaml
 cloudflared.exe
