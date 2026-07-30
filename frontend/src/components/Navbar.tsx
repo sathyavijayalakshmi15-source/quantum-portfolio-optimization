@@ -81,8 +81,12 @@ export const Navbar: React.FC<NavbarProps> = ({ activeTab, setActiveTab, isBacke
             })}
           </nav>
 
-          {/* Backend Status Badge */}
-          <div className="flex items-center space-x-3">
+          {/* Backend Status & Demo Mode Badges */}
+          <div className="flex items-center space-x-2">
+            <span className="px-2.5 py-1 rounded-full text-[11px] font-mono font-bold bg-purple-500/20 text-purple-300 border border-purple-500/40 shadow-sm">
+              Demo Mode
+            </span>
+
             <div className="flex items-center space-x-2 px-2.5 py-1 rounded-full bg-slate-900/80 border border-surface-border text-xs">
               <span className="relative flex h-2 w-2">
                 <span className={`animate-ping absolute inline-flex h-full w-full rounded-full opacity-75 ${isBackendConnected ? 'bg-emerald-400' : 'bg-amber-400'}`}></span>
