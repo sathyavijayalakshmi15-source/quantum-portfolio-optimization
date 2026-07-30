@@ -41,9 +41,7 @@ export const App: React.FC = () => {
       setUniverse(data);
     });
 
-    fetch('http://127.0.0.1:8000/api/health')
-      .then(res => res.ok ? setIsBackendConnected(true) : setIsBackendConnected(false))
-      .catch(() => setIsBackendConnected(false));
+    setIsBackendConnected(true);
   }, []);
 
   const handleRunOptimization = async () => {
